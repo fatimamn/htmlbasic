@@ -1,0 +1,26 @@
+
+
+body{
+	background-color: green;
+	font-family: sans-serif;
+	color:white;
+	font-weight: bold;
+}
+
+
+ul{
+	margin:0 auto;
+	width: 400px;
+}
+
+ul li{
+
+	list-style: none;
+
+}
+
+
+div{
+	width: 500px;
+	margin:0 auto;
+}
